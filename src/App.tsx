@@ -1,9 +1,6 @@
-
+import { H1 } from "@stylin.js/elements";
 function App() {
-
-  return (
-    <h1>Hello World</h1>
-  )
+  return <H1 fontSize="10rem">Hello World</H1>;
 }
 
-export default App
+export default App;
